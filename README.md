@@ -4,6 +4,10 @@
 
 # ENCODE Hi-C uniform processing pipeline
 
+## Aryee Lab modifications
+We have made the following modifications to the pipeline:
+- TODO
+
 ## Overview
 
 The [ENCODE](https://www.encodeproject.org/) pipeline for processing Hi-C data based on [Juicer](https://github.com/aidenlab/juicer)
